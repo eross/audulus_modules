@@ -1,3 +1,3 @@
-Audulus modules.
+Audulus patches.
 
-All modules are free to good homes.
+All patches are free to good homes.
